@@ -1,0 +1,80 @@
+[ {
+  "id" : "1b0457e9-a16b-e061-910f-fd49750bf85c",
+  "name" : "text_field",
+  "display_width" : null,
+  "label" : "Text",
+  "required" : false,
+  "locked" : false,
+  "validation_regex" : "",
+  "allow_new_line" : false,
+  "show_emoji_picker" : false,
+  "type" : "text",
+  "default" : "The World Ended Yesterday"
+}, {
+  "id" : "f4d87114-4a19-743d-4d6d-5fe9b1263522",
+  "name" : "richtext_field",
+  "display_width" : null,
+  "label" : "Rich text",
+  "required" : false,
+  "locked" : false,
+  "type" : "richtext",
+  "default" : "I don't need to compromise my principles, because they don't have the slightest bearing on what happens to me anyway."
+}, {
+  "id" : "0cfe4f1e-05fb-40e5-c5a0-8eb505fa934d",
+  "name" : "url_field",
+  "display_width" : null,
+  "label" : "URL",
+  "help_text" : "Read more",
+  "inline_help_text" : "Read more",
+  "required" : false,
+  "locked" : false,
+  "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG", "PHONE_NUMBER" ],
+  "type" : "url",
+  "default" : {
+    "content_id" : null,
+    "href" : "https://www.hubspot.com/products/crm",
+    "type" : "EXTERNAL"
+  }
+}, {
+  "id" : "463d6f9c-d3e5-1a50-e960-1ff3c6cba2e2",
+  "name" : "text_field_1",
+  "display_width" : null,
+  "label" : "Text",
+  "required" : false,
+  "locked" : false,
+  "validation_regex" : "",
+  "allow_new_line" : false,
+  "show_emoji_picker" : false,
+  "type" : "text",
+  "default" : "An Abstract Post Heading"
+}, {
+  "id" : "18f9be1a-c797-58ab-2ca1-ebdb6f2abe06",
+  "name" : "richtext_field_1",
+  "display_width" : null,
+  "label" : "Rich text",
+  "required" : false,
+  "locked" : false,
+  "type" : "richtext",
+  "default" : "&nbsp;Sometimes the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us."
+}, {
+  "id" : "21a3fea3-ca7e-9696-1c9e-6653abb3d878",
+  "name" : "text_field_2",
+  "display_width" : null,
+  "label" : "Text",
+  "required" : false,
+  "locked" : false,
+  "validation_regex" : "",
+  "allow_new_line" : false,
+  "show_emoji_picker" : false,
+  "type" : "text",
+  "default" : "Down with this sort of thing"
+}, {
+  "id" : "529c2d97-70f8-0ad8-d0ed-b6ae2a0dcb75",
+  "name" : "richtext_field_2",
+  "display_width" : null,
+  "label" : "Rich text",
+  "required" : false,
+  "locked" : false,
+  "type" : "richtext",
+  "default" : "I don't need to compromise my principles, because they don't have the slightest bearing on what happens to me anyway."
+} ]

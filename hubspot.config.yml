@@ -1,0 +1,26 @@
+defaultPortal: '26295073'
+portals:
+  - name: AmwhizMedia
+    portalId: 19501510
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CMK305_FMRIRAA0AQAAAAGwAQAJYAgEAAMgYxqOmCSD4iqEWKO7pDDIU7omOHHFUUMPvopHr0w_a85k0E_A6OAAABEEAAAB4AAAAAAAAAAAAgAAAAAAABAAAwAcAAAAAPGBQAABEAGBA_BgGABAgAwAAAAAADAADQhT2VzIajlTn4LjEzQEXDGX-L1QMHkoDbmExUgBaAA
+        expiresAt: '2023-12-10T13:40:05.209Z'
+    personalAccessKey: >-
+      CiQwOTI4M2I5OS04OGJmLTRjZjEtYjNkMy1jMGVjYjg0NGU5OTMQxqOmCRj4iqEWKhkABeaRgkZubH-zHnM6C0OMF_swC5iNiiNSSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
+  - name: DevLifeshield
+    portalId: 26295073
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CIuv4p_FMRIRAAUAQAAAAGwAQAJYAgEAAAgYofbEDCD4iqEWKO7pDDIUDeqO4oG4XnfIAKfPfmFkIXzXTNc6NgAABEEAAAAAAAAAAAAAAAAAgAAAAAAABAAAAAAAAAAAPGBQAABEAABA_BgGABAgAwAAAAAADEIUKalrzukUZlEFK9IrmI-bzU7vJ8dKA2V1MVIAWgA
+        expiresAt: '2023-12-10T13:44:09.902Z'
+    personalAccessKey: >-
+      CiRldTEtOGJjOC05ZTRkLTQ5ODktYjU5Mi1mYzkzMWM2MjFkNDYQofbEDBj4iqEWKhkABeaRgoPPDftV2QGWSyk7hVAXcFueiwYkSgNldTE
+    sandboxAccountType: null
+    parentAccountId: null

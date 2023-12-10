@@ -1,0 +1,49 @@
+[ {
+  "id" : "4971444e-2e1c-85fa-a31a-f0e388145ef6",
+  "name" : "text_field",
+  "display_width" : null,
+  "label" : "Text",
+  "required" : false,
+  "locked" : true,
+  "validation_regex" : "",
+  "allow_new_line" : false,
+  "show_emoji_picker" : false,
+  "type" : "text",
+  "default" : "Home"
+}, {
+  "id" : "b1eb56c3-2c79-ac03-8bf4-aa243737c32d",
+  "name" : "news",
+  "display_width" : null,
+  "label" : "News",
+  "required" : false,
+  "locked" : true,
+  "validation_regex" : "",
+  "allow_new_line" : false,
+  "show_emoji_picker" : false,
+  "type" : "text",
+  "default" : "News"
+}, {
+  "id" : "0bf2fab2-7dfb-9b65-2909-e1dcd297f65f",
+  "name" : "contact",
+  "display_width" : null,
+  "label" : "Contact",
+  "required" : false,
+  "locked" : true,
+  "validation_regex" : "",
+  "allow_new_line" : false,
+  "show_emoji_picker" : false,
+  "type" : "text",
+  "default" : "Contact"
+}, {
+  "id" : "9be949d6-5e52-92ee-1e6d-4aedfad98021",
+  "name" : "about",
+  "display_width" : null,
+  "label" : "About",
+  "required" : false,
+  "locked" : true,
+  "validation_regex" : "",
+  "allow_new_line" : false,
+  "show_emoji_picker" : false,
+  "type" : "text",
+  "default" : "About"
+} ]

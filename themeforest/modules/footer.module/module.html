@@ -1,0 +1,41 @@
+ <footer class="footer">
+      <div class="container row">
+        <div class="footer-col">
+          <h4>{% inline_text field="company" value="{{ module.company }}" %}</h4>
+          <ul>
+            <li><a href="#">{% inline_text field="about_us" value="{{ module.about_us }}" %}</a></li>
+            <li><a href="#">{% inline_text field="textour_services" value="{{ module.textour_services }}" %}</a></li>
+            <li><a href="#">{% inline_text field="privacy_policy" value="{{ module.privacy_policy }}" %}</a></li>
+            <li><a href="#">{% inline_text field="visit_website" value="{{ module.visit_website }}" %}</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>{{ module.get_help }}</h4>
+          <ul>
+            <li><a href="#">{% inline_text field="faq" value="{{ module.faq }}" %}</a></li>
+            <li><a href="#">{% inline_text field="shipping" value="{{ module.shipping }}" %}</a></li>
+            <li><a href="#">{% inline_text field="returns" value="{{ module.returns }}" %}</a></li>
+            <li><a href="#">{% inline_text field="order_status" value="{{ module.order_status }}" %}</a></li>
+            <li><a href="#">{% inline_text field="payment_options" value="{{ module.payment_options }}" %}</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>{% inline_rich_text field="online_shop" value="{{ module.online_shop }}" %}</h4>
+          <ul>
+            <li><a href="#">{% inline_text field="download" value="{{ module.download }}" %}</a></li>
+            <li><a href="#">{% inline_text field="changelog" value="{{ module.changelog }}" %}</a></li>
+            <li><a href="#">{% inline_text field="github" value="{{ module.github }}" %}</a></li>
+            <li><a href="#">{% inline_text field="all_version" value="{{ module.all_version }}" %}</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>{% inline_rich_text field="follow_us" value="{{ module.follow_us }}" %}</h4>
+          <div class="social-links">
+            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+          </div>
+        </div>
+      </div>
+    </footer>
